@@ -1,6 +1,6 @@
 console.log("this is script file");
 
-const toggleSidebar =()=> {
+const toggleSidebar = () => {
   if ($(".sidebar").is(":visible")) {
     //true
     //band karna hai
